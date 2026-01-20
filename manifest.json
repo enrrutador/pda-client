@@ -1,0 +1,18 @@
+{
+  "name": "RapidScan PDA",
+  "short_name": "RapidScan",
+  "description": "Sistema de inventario PDA ultra-rápido",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://replit.com/public/images/opengraph.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
